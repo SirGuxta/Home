@@ -1,0 +1,18 @@
+
+html {
+    background-color: #e0e1dd;
+}
+
+body header .sec_00 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body header .sec_00 .logo {
+    width: 5vw;
+}
+
+body header .sec_00 span {
+    font-family: Arial, Helvetica, sans-serif;
+}
